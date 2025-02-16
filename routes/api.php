@@ -7,6 +7,10 @@ Route::get('/user', function (Request $request) {
     return $request->user();
 })->middleware('auth:sanctum');
 
+Route::get('/check', function (Request $request) {
+    return "api working";
+});
+
 
 use App\Http\Controllers\AuthController;
 
