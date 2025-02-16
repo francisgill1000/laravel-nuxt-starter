@@ -1,6 +1,6 @@
 # Laravel Nuxt Start Setup Guide
 
-This guide explains how to set up a project from a Git repository and configure Register/Login API.
+This guide explains how to set up a Laravel Nuxt Starter project from a Git repository.
 
 ## Prerequisites
 
@@ -135,5 +135,5 @@ npm run dev
 Now nuxt app also running on  `http://127.0.0.1:3000`.
 
 ## Conclusion
-You have successfully set up a Laravel project and configured the Register/Login API. 🎉
+You have successfully set up a Laravel Nuxt Starter project. 🎉
 
