@@ -53,7 +53,7 @@ php artisan migrate
 
 Start the Laravel development server:
 ```bash
-php artisan serve
+php artisan serve OR php -S localhost:8000 -t public
 ```
 
 The application should now be running at `http://127.0.0.1:8000`.
