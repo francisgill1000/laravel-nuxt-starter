@@ -20,7 +20,7 @@ git clone https://github.com/francisgill1000/laravel-nuxt-starter
 
 Navigate to the project directory:
 ```bash
-cd <project-name>
+cd laravel-nuxt-starter
 ```
 
 ## Step 2: Install Dependencies
