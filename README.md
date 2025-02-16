@@ -119,6 +119,21 @@ curl -X POST "http://127.0.0.1:8000/api/login" \
      -d '{"email": "john@example.com", "password": "password"}'
 ```
 
+
+
+## Step 8: Nuxt Setup
+
+Repository also includes nuxt(2) app for you. so you dont need to setup nuxt app by yourself. just follow below commands
+
+
+```bash
+cd frontend
+npm i
+npm run dev
+```
+
+Now nuxt app also running on  `http://127.0.0.1:3000`.
+
 ## Conclusion
 You have successfully set up a Laravel project and configured the Register/Login API. 🎉
 
